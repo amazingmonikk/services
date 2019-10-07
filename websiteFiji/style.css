@@ -3,7 +3,7 @@
   }
 
 body {
-    background-color:black;
+    background:black;
     color: white;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
@@ -128,13 +128,17 @@ footer {
     font-weight: bold;
     position: absolute;
     right: 200px;
-    bottom: -420px;
+    /* bottom: -420px; */
     box-shadow: -9px 11px  #E56DE1;
   } 
 
+  [class*=“col-“] {
+    width: 100%;
+   }
+
   @media screen and (max-width: 600px) {
     body {
-      background-color: rgb(17, 13, 79);
+      background: pink;
     }
   }
 
