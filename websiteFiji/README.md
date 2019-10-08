@@ -5,4 +5,4 @@ This website is my first project for General Assembly. It is a replica of a Serv
 
 Mockup image
 -------------------
-![mockup image] images/Services1.jpg
+![mockup image] services/websiteFiji/images/Services1.jpg
